@@ -25,6 +25,8 @@ Protoxtruder (uses HGX gears)
 
 IR bed level sensor
 
+Mellow USB-C ADXL
+
 ## Motors:
 
 FYSETC G36HSY4405-6D-1200 (Extruder)
