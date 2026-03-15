@@ -25,7 +25,9 @@ USONGSHINE 17H4401S (Z)
 LDO 36STH20-1004AHG(OBT) (Extruder)
 
 ### Toolhead:
-Dragonburner V8. Phaetus Dragon Ace. GDSTime 12k rpm 4010 part fans. Fabreeko 3010 hotend fan
+Dragonburner V8. GDSTime 12k rpm 4010 part fans. Fabreeko 3010 hotend fan
+
+Phaetus Dragon Ace. 104NT
 
 Orbiter 2.5
 
