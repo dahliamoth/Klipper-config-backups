@@ -6,32 +6,42 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Kl
 Voron Trident 300x300x250mm
 
 Electrical:
-Raspbery PI5
-BTT HDMI5
-Orbitool 02 Toolhead board
-BTT Octopus Pro V1.1 w/H723
--TMC2226 Z drivers
--TMC2240 XY drivers
+
+Raspbery PI5.
+
+BTT HDMI5. 
+
+Orbitool 02 Toolhead board.
+
+BTT Octopus Pro V1.1 w/H723. TMC2226 Z drivers. TMC2240 XY drivers
 
 Steppers:
+
 LDO 42STH48-2504AH(S45R) - XY
+
 Fysetc 42HC40-204A-300N84 - Z
+
 LDO 36STH20-1004AHG(OBT) - Extruder
 
+
 Toolhead:
-A4T
--Fabreeko 12k RPM 4010 part fans
--Fabreeko 24v 2510 hotend fan
-Phaetus Dragon UHF Mini
--PT1000
--70w heater
+
+A4T. Fabreeko 12k RPM 4010 part fans. Fabreeko 24v 2510 hotend fan
+
+Phaetus Dragon UHF Mini. PT1000. 70w heater
+
 Chaotic Labs CNC Tap v2
-Orbiter 2.0
--OSS Filament Sensor
+
+Orbiter 2.0. OSS Filament Sensor
 
 Additional Accessories:
+
 Nevermore V5
+
 Underbed 5015 Fan
+
 2x Daylight on a Stick
+
 2x Chamber thermistors
+
 Luke's Lab Nocturne Camera
