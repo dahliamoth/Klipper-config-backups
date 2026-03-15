@@ -1,7 +1,7 @@
 # Automatic Klipper config backups using [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup)
 
 ## [Voron Trident](https://github.com/dahliamoth/Klipper-config-backups/tree/Voron_Trident)
-300mm. VT-1329
+300mm. VT.1329
 [Voron Trident](https://github.com/VoronDesign/Voron-Trident)
 
 ## [Micron]
