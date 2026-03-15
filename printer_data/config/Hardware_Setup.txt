@@ -1,0 +1,24 @@
+Fraxinus 00tx
+
+Electrical:
+BTT PI
+BTT SKR PICO
+BTT TFT-35-SPI
+
+Bed:
+Prusa XL Bed tile mod
+
+Toolhead:
+Bambu X1 0.4mm hotend
+-48W heater
+Protoxtruder (uses HGX gears)
+IR bed level sensor
+
+Motors:
+FYSETC G36HSY4405-6D-1200 (Extruder)
+OMC 11HS12-0674S (XY)
+OMC 14HS13-0804S (Z)
+
+Additional accessories:
+RGB lighting
+24v barrel or 20v USB-PD switch mod
