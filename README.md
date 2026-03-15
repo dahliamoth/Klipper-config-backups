@@ -4,8 +4,9 @@ Klipper backup script for manual or automated GitHub backups
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
 
 # Fraxinus 00tw 
+70x70x60
 
-## Electrical:
+### Electrical:
 
 BTT PI
 
@@ -13,11 +14,11 @@ BTT SKR PICO
 
 BTT TFT-35-SPI
 
-## Bed:
+### Bed:
 
 Prusa XL Bed tile mod
 
-## Toolhead:
+### Toolhead:
 
 Bambu X1 0.4mm hotend. 48W heater
 
@@ -27,7 +28,7 @@ IR bed level sensor
 
 Mellow USB-C ADXL
 
-## Motors:
+### Motors:
 
 FYSETC G36HSY4405-6D-1200 (Extruder)
 
@@ -35,7 +36,7 @@ OMC 11HS12-0674S (XY)
 
 OMC 14HS13-0804S (Z)
 
-## Additional accessories:
+### Additional accessories:
 
 RGB lighting
 
