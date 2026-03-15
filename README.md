@@ -9,7 +9,7 @@ formally Voron V0.1
 
 VO.1903
 
-# Electrical:
+## Electrical:
 
 BTT PI2
 
@@ -21,7 +21,7 @@ Isik Tech PiCan
 
 BTT EBB36 V1.1
 
-# Steppers:
+## Steppers:
 
 LDO 35sth48-1684ah (XY)
 
@@ -29,7 +29,7 @@ LDO 42sth25-1004cl-200et (Z)
 
 LDO 36STH20-1004AHG (Extruder)
 
-# Toolhead:
+## Toolhead:
 
 Dragonburner V8. GDSTime 12k RPM 4010 part fans. GDSTime 3010 hotend fan
 
@@ -37,7 +37,7 @@ Phaetus Dragon HF. PT1000. 65W heater
 
 Bondtech LGX Lite V2
 
-# Additional accessories:
+## Additional accessories:
 
 2X Daylight on a matchstick
 
