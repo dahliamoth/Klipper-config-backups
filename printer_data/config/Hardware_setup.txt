@@ -1,0 +1,15 @@
+Micron R1
+180x180x160
+M.158
+
+Electrical:
+Raspbery Pi4b
+LDO Leviathan 1.3
+Waveshare 4.3 DSI
+
+Steppers:
+LDO 36STH20-1004AHG(OBT) (Extruder)
+
+Toolhead:
+
+Additional accessories:
