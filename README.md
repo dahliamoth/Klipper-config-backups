@@ -7,8 +7,6 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Kl
 
 formally Voron V0.1
 
-120x120x120
-
 VO.1903
 
 # Electrical:
