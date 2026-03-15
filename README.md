@@ -3,9 +3,9 @@ Klipper backup script for manual or automated GitHub backups
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
 
-Voron Trident 300x300x250mm
+# Voron Trident 300x300x250mm
 
-Electrical:
+## Electrical:
 
 Raspbery PI5.
 
@@ -15,7 +15,7 @@ Orbitool 02 Toolhead board.
 
 BTT Octopus Pro V1.1 w/H723. TMC2226 Z drivers. TMC2240 XY drivers
 
-Steppers:
+## Steppers:
 
 LDO 42STH48-2504AH(S45R) - XY
 
@@ -23,8 +23,7 @@ Fysetc 42HC40-204A-300N84 - Z
 
 LDO 36STH20-1004AHG(OBT) - Extruder
 
-
-Toolhead:
+## Toolhead:
 
 A4T. Fabreeko 12k RPM 4010 part fans. Fabreeko 24v 2510 hotend fan
 
@@ -34,7 +33,7 @@ Chaotic Labs CNC Tap v2
 
 Orbiter 2.0. OSS Filament Sensor
 
-Additional Accessories:
+## Additional Accessories:
 
 Nevermore V5
 
