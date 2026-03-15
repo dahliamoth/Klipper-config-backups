@@ -1,0 +1,129 @@
+{
+	"FFMInfo" : 
+	{
+		"MileageEnable" : true,
+		"OdometerEnable" : false,
+		"channel" : 1,
+		"ffmColor0" : "",
+		"ffmColor1" : "#F95D73",
+		"ffmColor2" : "#F72224",
+		"ffmColor3" : "#FFFFFF",
+		"ffmColor4" : "#F72224",
+		"ffmEnable" : true,
+		"ffmType0" : "?",
+		"ffmType1" : "PLA",
+		"ffmType2" : "PLA",
+		"ffmType3" : "PLA",
+		"ffmType4" : "PLA"
+	},
+	"Multicolour" : 
+	{
+		"FristESpace" : 100,
+		"FristESpeed" : 300,
+		"FristFanSpeed" : 0,
+		"SecondESpace" : 30,
+		"SecondESpeed" : 300,
+		"SecondFanSpeed" : 255,
+		"UnloadESpace" : 60,
+		"UnloadIFSSpace" : 70,
+		"UnloadSpeed" : 600
+	},
+	"cameraInfo" : 
+	{
+		"cameraDelay" : 1.0,
+		"cameraStatus" : false,
+		"cameraVideo" : false
+	},
+	"flashcloud" : 
+	{
+		"flashCloudAccount" : "",
+		"flashCloudRegCode" : "",
+		"flashCloudServerUrl" : "https://cloud.sz3dp.com",
+		"flashCloudStatus" : false
+	},
+	"general" : 
+	{
+		"CheckZFrist" : false,
+		"DoorOpenPause" : false,
+		"DoorOpenRemind" : false,
+		"FilamentSenserMax" : 0.69999999999999996,
+		"FilamentSenserMin" : 0.29999999999999999,
+		"FlowDetection" : false,
+		"FristLayerScan" : false,
+		"LCDProtect" : false,
+		"autoAppData" : false,
+		"autoEveryPrint" : false,
+		"brightNess" : 100,
+		"buildOffset" : 0,
+		"buzzerStatus" : false,
+		"externalFan" : false,
+		"extruderCalibrationValue" : -3.0,
+		"extruderLight" : 100,
+		"extruderType" : "0.4-300",
+		"extruderTypeInfo" : "0.4mm",
+		"fanSpeed" : 10,
+		"fanSwitch" : false,
+		"filamentCumulative" : 768271.6875,
+		"filterAir" : false,
+		"firstBuild" : false,
+		"guide" : false,
+		"internalFan" : false,
+		"keepTime" : 5,
+		"lanCode" : "0e35a229",
+		"ledStatus" : true,
+		"leftFilamentDetect" : false,
+		"localName" : "Group A",
+		"modifyTime" : "1709370242",
+		"nozzleTempDifferentValue" : 10,
+		"powerOff" : false,
+		"powerTime" : 30,
+		"printerLanguage" : "english",
+		"printerName" : "AD5X",
+		"printerSerialNumber" : "SNMTCE9812223",
+		"printerTotalTime" : 8444,
+		"protectTotalTime" : 0,
+		"recover" : false,
+		"rightFilamentDetect" : true,
+		"zLevelOffset" : -3.0649998188018799
+	},
+	"leftExtruderOffset" : 
+	{
+		"CutXOffset" : 0.60000002384185791,
+		"CutYOffset" : 0.60000002384185791,
+		"xOffset" : 0.0,
+		"yOffset" : 0.40000000596046448,
+		"zOffset" : 0.0,
+		"zProbeOffset" : 0.0
+	},
+	"log" : 
+	{
+		"logLevel" : 1,
+		"logSaveDir" : "/opt/test.log"
+	},
+	"network" : 
+	{
+		"configDns" : "",
+		"configGateway" : "",
+		"configIp" : "",
+		"configNetmask" : "",
+		"ethernetStatus" : true,
+		"isManual" : false,
+		"isUdhcpc" : true,
+		"lanStatus" : true,
+		"wifiHotspotStatus" : false,
+		"wifiStationStatus" : false
+	},
+	"polarcloud" : 
+	{
+		"polarCloudAccount" : "",
+		"polarCloudPINCode" : "",
+		"polarCloudSerialNo" : "",
+		"polarCloudStatus" : false
+	},
+	"webConsole" : 
+	{
+		"isFirstLogin" : true,
+		"userID" : "admin",
+		"userPass" : "ff123456"
+	}
+}
