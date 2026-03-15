@@ -3,7 +3,9 @@ Klipper backup script for manual or automated GitHub backups
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/Klipper-Backup).
 
-# Voron Trident 300x300x250mm
+# Voron Trident
+300x300x250
+VT.1329
 
 ## Electrical:
 
