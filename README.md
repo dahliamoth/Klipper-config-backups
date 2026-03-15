@@ -21,3 +21,5 @@ Modified to [Boxzero](https://github.com/zruncho3d/BoxZero)
 Source files currently not public
 
 [Fraxinus](https://fraxinus.jp/en/)
+
+## [Flashforge AD5X](https://github.com/dahliamoth/Klipper-config-backups/tree/Flashforge-AD5X)
