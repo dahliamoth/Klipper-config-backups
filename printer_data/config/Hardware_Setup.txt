@@ -1,4 +1,5 @@
 Fraxinus 00tw
+70x70x60
 
 Electrical:
 BTT PI
