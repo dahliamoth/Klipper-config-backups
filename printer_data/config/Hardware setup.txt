@@ -1,4 +1,5 @@
 Voron Trident 300x300x250mm
+VT.1329
 
 Electrical:
 Raspbery PI5
