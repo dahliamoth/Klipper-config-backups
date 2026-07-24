@@ -18,8 +18,7 @@ Modified to [Boxzero](https://github.com/zruncho3d/BoxZero)
 
 ## [Fraxinus 00tw](https://github.com/dahliamoth/Klipper-config-backups/tree/Fraxinus_00tw)
 70mm.
-[Fraxinus 00tw](https://github.com/Fraxinus-3D/Fraxinus-00tw)
 
-[Fraxinus](https://fraxinus.jp/en/)
+[Fraxinus 00tw](https://github.com/Fraxinus-3D/Fraxinus-00tw)
 
 ## [Flashforge AD5X](https://github.com/dahliamoth/Klipper-config-backups/tree/Flashforge-AD5X)
